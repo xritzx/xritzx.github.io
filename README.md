@@ -1,2 +1,2 @@
 # Resume
-Head over to my ("https://xritzx.github.io")[Resume]
+Head over to my Resume("https://xritzx.github.io")[
