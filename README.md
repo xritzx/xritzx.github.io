@@ -1,2 +1,2 @@
 # Resume
-Head over to my [Resume] ("https://xritzx.github.io")
+Head over to my [GitHub Pages](https://pages.github.com/).
